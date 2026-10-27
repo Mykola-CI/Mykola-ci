@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: ...
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,express,firebase,flask,git,github,githubactions,heroku,mongodb,nextjs,npm,postgres,react,SQLite,supabase,ts)](https://skillicons.dev) 
 <!--
 **Mykola-CI/Mykola-ci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
