@@ -1,11 +1,16 @@
 ## Greetings, Hi There, Buenos Dias  👋
 
 
-- 🔭 I’m currently working on ... Well , I am not telling you. Though, it is rather one interesting SaaS targeted at creative agencies. Coming soon ...
-- 👯 I’m open to collaborate and contribute to any front end or full stack projects and bring ideas to life or help businesses to grow...
+- 🔭 I’m currently working on ... Well , I am not telling you. Though, it is rather one interesting SaaS targeted at web-design and creative agencies. Coming soon ...
+- 👯 I’m open to collaborate and contribute to any front end or full stack projects (web, mobile) and bring ideas to life or help businesses to grow...
 - 📫 How to reach me: mykola_kuievda@team5.dev
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,django,express,firebase,flask,git,github,githubactions,heroku,mongodb,nextjs,npm,postgres,react,sqlite,supabase,ts)](https://skillicons.dev)  
+  
+<p align="center">⌨️ </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,django,express,firebase,flask,git,github,githubactions,heroku,mongodb,nextjs,npm,postgres,react,sqlite,supabase&perline=10" />
+  </a>
+</p>
 
 <!--
 **Mykola-CI/Mykola-ci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
